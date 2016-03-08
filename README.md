@@ -1,2 +1,2 @@
 # euler
-Project containing my Euler attempts
+Project Euler attempts
